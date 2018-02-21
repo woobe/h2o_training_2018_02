@@ -1,4 +1,4 @@
-[“priority_id”, “date_format”, “string_length”, “num_ip_addresses”, “num_mac_addresses”, “log_class”,
-“four_letter_word_ratio”, “five_letter_word_ratio”, “six_letter_word_ratio”, “seven_letter_word_ratio”,
-“eight_letter_word_ratio”, “nine_letter_word_ratio”, “ten_letter_word_ratio”, “eleven_letter_word_ratio”,
-“twelve_letter_word_ratio”, “thirteen_letter_word_ratio”, “fourteen_letter_word_ratio”, “fifteen_letter_word_ratio”]
+train.names = ['priority_id', 'date_format', 'string_length', 'num_ip_addresses', 'num_mac_addresses', 'log_class',
+  'four_letter_word_ratio', 'five_letter_word_ratio', 'six_letter_word_ratio', 'seven_letter_word_ratio',
+  'eight_letter_word_ratio', 'nine_letter_word_ratio', 'ten_letter_word_ratio', 'eleven_letter_word_ratio',
+  'twelve_letter_word_ratio', 'thirteen_letter_word_ratio', 'fourteen_letter_word_ratio', 'fifteen_letter_word_ratio']
